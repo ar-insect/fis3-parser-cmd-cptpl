@@ -1,0 +1,19 @@
+{
+  "name": "fis3-parser-cmd-cptpl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ar-insect/fis3-parser-cmd-cptpl.git"
+  },
+  "author": "ar-insect",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ar-insect/fis3-parser-cmd-cptpl/issues"
+  },
+  "homepage": "https://github.com/ar-insect/fis3-parser-cmd-cptpl#readme"
+}
